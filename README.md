@@ -6,17 +6,14 @@
 
 ### 👨‍💻 About Me
 - 👨‍💻 All of my projects are available at [portfolio](#)
-- 💬 Ask me about Machine Learning, Python, Computer Vision, NLP (parfait déjà)
+- 💬 Ask me about Machine Learning, Python, Computer Vision, NLP
 - 📫 How to reach me: **iyed.bromdhane@gmail.com**
 - ⚡ I enjoy turning data into intelligent and practical solutions
 
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
-<a href="www.linkedin.com/in/iyed-ben-romdhane-aa2685258" target="blank">LinkedIn</a> |
-<a href="www.facebook.com/iyed.benromdhane.77">Facebook</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/iyed-ben-romdhane-aa2685258) | [Facebook](https://www.facebook.com/iyed.benromdhane.77)
 
 ---
 
