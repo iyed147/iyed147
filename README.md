@@ -15,12 +15,12 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="www.linkedin.com/in/iyed-ben-romdhane-aa2685258" target="blank">LinkedIn</a> |
-<a href="[#](https://www.facebook.com/iyed.benromdhane.77/)">Facebook</a>
+<a href="www.facebook.com/iyed.benromdhane.77">Facebook</a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,angular,react,nodejs,mongodb,mysql,postgres,c,postman,linux,html,docker,git" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,angular,react,nodejs,mongodb,mysql,postgres,c,postman,linux,html,docker,git,aws,c#,matlab,unity" />
 </p>
