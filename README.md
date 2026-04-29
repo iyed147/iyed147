@@ -19,5 +19,5 @@
 
 ### 🛠️ Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,angular,react,nodejs,mongodb,mysql,postgres,c,postman,linux,html,docker,git,aws,c#,matlab,unity" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,js,ts,html,css,angular,react,nodejs,express,spring,mongodb,mysql,postgres,postman,linux,docker,git,matlab,unity,hadoop" />
 </p>
