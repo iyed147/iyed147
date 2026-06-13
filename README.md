@@ -5,7 +5,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 👨‍💻 All of my projects are available at [portfolio](#)
 - 💬 Ask me about Machine Learning, Python, Computer Vision, NLP
 - 📫 How to reach me: **iyed.bromdhane@gmail.com**
 - ⚡ I enjoy turning data into intelligent and practical solutions
