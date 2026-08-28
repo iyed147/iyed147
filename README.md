@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iyed-ben-romdhane&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iyed147&color=blue&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/🎯 Seeking-AI Internship 2026-2E9EF7?style=flat-square" alt="internship badge" />
 </p>
 
@@ -13,8 +13,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science Engineering student, specializing in **AI & Data Science**
-- 🧠 I don't just train models — I build products powered by them
+- 🎓 Final-year Engineering student specializing in **Artificial Intelligence & Data Science**
+- 🧠 Focused on applying AI to solve real-world problems
 - 💬 Ask me about Machine Learning, Python, Computer Vision, NLP
 - 📫 Reach me at: **iyed.bromdhane@gmail.com**
 - ⚡ I enjoy turning data into intelligent and practical solutions
@@ -30,9 +30,6 @@
   <a href="https://www.facebook.com/iyed.benromdhane.77" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:iyed.bromdhane@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -46,6 +43,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyed-ben-romdhane&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyed-ben-romdhane&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iyed147&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyed147&hide_border=true" width="48%" />
 </p>
