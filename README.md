@@ -39,10 +39,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,ts,html,css,tailwind,bootstrap,angular,react,vite,nodejs,express,fastapi,spring,mongodb,mysql,postgres,supabase,postman,linux,docker,git,vercel,render,hadoop" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyed147&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=iyed147&hide_border=true" width="48%" />
-</p>
