@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://iyedbenromdhane.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-2E9EF7?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-2E9EF7?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/iyed-ben-romdhane-aa2685258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
