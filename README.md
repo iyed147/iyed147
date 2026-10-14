@@ -51,7 +51,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,ts,html,css,tailwind,bootstrap,angular,react,vite,nodejs,express,fastapi,spring,mongodb,mysql,postgres,supabase,postman,linux,docker,git,github,vercel,render,pytorch,tensorflow,opencv,jupyter" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,ts,html,css,tailwind,bootstrap,angular,react,vite,nodejs,express,fastapi,spring,mongodb,mysql,postgres,supabase,postman,linux,docker,git,github,vercel,pytorch,tensorflow,opencv,jupyter" alt="Languages and tools" />
 </p>
 
 <p align="center">
