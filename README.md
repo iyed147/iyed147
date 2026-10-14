@@ -5,15 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://iyedbenromdhane.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2E9EF7?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/iyed-ben-romdhane-aa2685258" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=iyed147&color=blue&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/🎯_Seeking-Final--Year_AI_Internship-2E9EF7?style=flat-square" alt="Internship badge" />
 </p>
