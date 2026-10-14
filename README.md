@@ -65,6 +65,4 @@
 
 ### 🚀 Featured Projects
 
-Check out my repositories for projects in **AI, Machine Learning, Computer Vision, NLP and Full-Stack Development**.
-
-🔗 **[Explore all my projects on GitHub](https://github.com/iyed147)** · **[Visit my portfolio](https://iyedbenromdhane.vercel.app/)**
+Check out my repositories for projects in **AI, Machine Learning, Computer Vision, NLP and Full-Stack Development**
